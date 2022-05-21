@@ -44,3 +44,7 @@ button{
     padding-left: 100px;
     padding-top: 50px;
 }
+.Technical{
+      display: flex;
+      justify-content: space-between;
+}
