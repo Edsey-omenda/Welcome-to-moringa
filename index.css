@@ -23,3 +23,21 @@ button{
 .images, .moringa-o, .moringa-b, .grad-party{
    display: flex;
 }
+.im1-moringa{
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+.orientation{
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.im2-moringa{
+    padding-left: 150px;
+}
+.board-meet{
+    padding-top: 50px;
+}
+.graduation{
+    padding-left: 100px;
+    padding-top: 50px;
+}
